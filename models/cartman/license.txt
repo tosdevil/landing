@@ -1,0 +1,11 @@
+Model Information:
+* title:	LowPoly PS1 Style Cartman
+* source:	https://sketchfab.com/3d-models/lowpoly-ps1-style-cartman-e914e306fc8441f1973f9716a6ba9356
+* author:	ps1guy (https://sketchfab.com/ps1guy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LowPoly PS1 Style Cartman" (https://sketchfab.com/3d-models/lowpoly-ps1-style-cartman-e914e306fc8441f1973f9716a6ba9356) by ps1guy (https://sketchfab.com/ps1guy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

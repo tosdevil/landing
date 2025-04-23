@@ -1,0 +1,11 @@
+Model Information:
+* title:	Heather Mason SH3 (With Bones)
+* source:	https://sketchfab.com/3d-models/heather-mason-sh3-with-bones-c094776ee2dd4b7fa7a1b3e497cd3461
+* author:	zHairezt (https://sketchfab.com/zHairezt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Heather Mason SH3 (With Bones)" (https://sketchfab.com/3d-models/heather-mason-sh3-with-bones-c094776ee2dd4b7fa7a1b3e497cd3461) by zHairezt (https://sketchfab.com/zHairezt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
