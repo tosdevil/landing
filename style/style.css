@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'customFont';
-	src: url("/landing/img/sh.ttf") format('truetype');
+	src: url("/landing/fonts/sh.ttf") format('truetype');
 }  
 
 :root {
