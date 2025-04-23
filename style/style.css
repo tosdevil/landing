@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'customFont';
-	src: '../fonts/sh.ttf' format('truetype');
+	src: url("../fonts/sh.ttf") format('truetype');
 }  
 
 :root {
@@ -104,7 +104,7 @@ body
 .noise
 {
   position: absolute;
-	background: '../img/noise.gif';
+	background: url("../img/noise.gif");
 	width: 100vw;
 	height: 100vh;
 	z-index: -1;
