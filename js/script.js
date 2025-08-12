@@ -8,7 +8,7 @@ const clock = new THREE.Clock();
 
 console.log('what do you want to find')
 
-let release_date = "15.11.2024"
+let release_date = "22.08.2025"
 
 let release_label = document.getElementById('release_label')
 let release_action_label = document.getElementById('release_action_label')
@@ -22,7 +22,7 @@ let sound_switcher = document.getElementById('sound_switcher')
 
 release_label.addEventListener("click", function (e) {
   console.log('release');
-	window.location.href = "https://band.link/JskQo";
+	window.location.href = "https://band.link/3SzhF";
 });
 
 tg_label.addEventListener("click", function (e) {
